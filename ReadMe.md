@@ -15,3 +15,5 @@ The data is binarized using the program in 'binarize_data.m' with the use of k-m
 The structure and parameter learning as well as the inference is performed using Python 'Project_Learning.ipynb'. The structure is validated and the data for plotting is exported to MATLAB using 'Project_Validation.ipynb'.
 
 Finally, 'plot_graph.m' uses the files 'a_list.mat','a_list_new.mat' and 'a_list_truth.mat' to plot the three network graphs.
+
+Please see APGM_report.pdf for detailed references. 
